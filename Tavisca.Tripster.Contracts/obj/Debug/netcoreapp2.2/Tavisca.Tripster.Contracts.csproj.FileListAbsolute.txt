@@ -1,0 +1,9 @@
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.deps.json
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.dll
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.AssemblyInfo.cs
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.pdb
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.dll
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.pdb
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Contracts\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.csprojAssemblyReference.cache

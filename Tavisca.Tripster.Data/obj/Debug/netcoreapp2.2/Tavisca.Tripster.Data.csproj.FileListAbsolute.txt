@@ -1,0 +1,12 @@
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Data.deps.json
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Data.dll
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.csprojAssemblyReference.cache
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.AssemblyInfo.cs
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Data.pdb
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.dll
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\bin\Debug\netcoreapp2.2\Tavisca.Tripster.Contracts.pdb
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.csproj.CopyComplete
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.dll
+C:\Users\ysant\source\repos\Tavisca.Tripster\Tavisca.Tripster.Data\obj\Debug\netcoreapp2.2\Tavisca.Tripster.Data.pdb

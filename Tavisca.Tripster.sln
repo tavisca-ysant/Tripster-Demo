@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Tripster.Web", "Tavisca.Tripster.Web\Tavisca.Tripster.Web.csproj", "{B5AF2132-815F-453D-8B25-3C41BB408AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Tripster.Core", "Tavisca.Tripster.Core\Tavisca.Tripster.Core.csproj", "{E190ED37-5009-4A53-B9B6-AAB5FDF5AC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Tripster.Data", "Tavisca.Tripster.Data\Tavisca.Tripster.Data.csproj", "{198F2FD7-2544-4C62-8EC3-F6612B883EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Tripster.Contracts", "Tavisca.Tripster.Contracts\Tavisca.Tripster.Contracts.csproj", "{BE154051-4FF2-4EE7-9EEF-48B9A46D1CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Tripster.Tests", "Tavisca.Tripster.Tests\Tavisca.Tripster.Tests.csproj", "{4B26F30F-A746-4ACE-8D1A-6B704A2DBB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AF2132-815F-453D-8B25-3C41BB408AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF2132-815F-453D-8B25-3C41BB408AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF2132-815F-453D-8B25-3C41BB408AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF2132-815F-453D-8B25-3C41BB408AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E190ED37-5009-4A53-B9B6-AAB5FDF5AC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E190ED37-5009-4A53-B9B6-AAB5FDF5AC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E190ED37-5009-4A53-B9B6-AAB5FDF5AC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E190ED37-5009-4A53-B9B6-AAB5FDF5AC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198F2FD7-2544-4C62-8EC3-F6612B883EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198F2FD7-2544-4C62-8EC3-F6612B883EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198F2FD7-2544-4C62-8EC3-F6612B883EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198F2FD7-2544-4C62-8EC3-F6612B883EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE154051-4FF2-4EE7-9EEF-48B9A46D1CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE154051-4FF2-4EE7-9EEF-48B9A46D1CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE154051-4FF2-4EE7-9EEF-48B9A46D1CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE154051-4FF2-4EE7-9EEF-48B9A46D1CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B26F30F-A746-4ACE-8D1A-6B704A2DBB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B26F30F-A746-4ACE-8D1A-6B704A2DBB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B26F30F-A746-4ACE-8D1A-6B704A2DBB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B26F30F-A746-4ACE-8D1A-6B704A2DBB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B782643D-9F42-457F-8A01-005D4DE9E31C}
+	EndGlobalSection
+EndGlobal

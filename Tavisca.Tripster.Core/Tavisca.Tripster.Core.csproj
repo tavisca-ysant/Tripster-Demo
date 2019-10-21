@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tavisca.Tripster.Contracts\Tavisca.Tripster.Contracts.csproj" />
+    <ProjectReference Include="..\Tavisca.Tripster.Data\Tavisca.Tripster.Data.csproj" />
+  </ItemGroup>
+
+</Project>
