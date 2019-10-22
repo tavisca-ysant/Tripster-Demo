@@ -14,9 +14,9 @@ namespace Tavisca.Tripster.Data.Models
         public string name { get; set; }
         public Location Location { get; set; }
         //[BsonDateTimeOptions(Kind = DateTimeKind.Unspecified)]
-        public long Arrival { get; set; }
+        public string Arrival { get; set; }
         //[BsonDateTimeOptions(Kind = DateTimeKind.Unspecified)]
-        public long Departure { get; set; }
+        public string Departure { get; set; }
 
         public List<Place> Places { get; set; }
     }
